@@ -1,0 +1,10 @@
+Amounts of School age children by census tract
+census tracts - http://maps.library.utoronto.ca/cgi-bin/files.pl?idnum=1422
+School Locations - All Types - https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=16a91e22fe370410VgnVCM10000071d60f89RCRD&vgnextchannel=75d6e03bb8d1e310VgnVCM10000071d60f89RCRD
+Fixed attendance boundaries - https://www.tcdsb.org/ProgramsServices/EarlyYears/Kindergarten/Documents/TCDSB_FixedAttendanceBoundary_KeyMap_Website.pdf
+
+
+References
+
+https://www.insidetoronto.com/news-story/1938795-east-york-parents-ask-tdsb-to-fix-decaying-infested-and-overflowing-schools/
+https://www.thestar.com/yourtoronto/education/2017/10/29/parents-want-developers-to-kick-in-and-help-expand-overcrowded-toronto-schools.html
